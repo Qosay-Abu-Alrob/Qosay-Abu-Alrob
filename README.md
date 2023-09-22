@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ I like to develop my skills in problem solving by participating in competition 🔥<br>📚 I'm currently learning React Js ✅<br>🎯 Goals: Become a Front-End Developer 👨‍💻<br>🎲 Fun fact: Always smiling even in the darkest times 😂</p>
+<p align="left">✨ I like to develop my skills in problem solving by participating in competition 🔥<br>📚 I'm currently learning Javascript ✅<br>🎯 Goals: Become a Front-End Developer 👨‍💻<br>🎲 Fun fact: Always smiling even in the darkest times 😂</p>
 
 ###
 
